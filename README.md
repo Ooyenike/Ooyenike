@@ -21,7 +21,7 @@ I am Owolabi Oyenike
 I am a full stack developer (in view), I am part opf successful shortlisted participant of zuri trainning
 
 🔗 Links
-portfolio[linkedin](https://www.linkedin.com/Owolabi Oyenike Odunola)twitter
+portfoliolinkedintwitter
 
 🛠 Skills
 Javascript, HTML, CSS...

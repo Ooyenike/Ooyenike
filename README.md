@@ -18,21 +18,12 @@ Here are some ideas to get you started:
 I am Owolabi Oyenike
 
 🚀 About Me
-I am a full stack developer (in view), I am part opf successful shortlisted participant of zuri trainning
+I was into fullstack engineering before reuniting with my love for Numbers and Data... Therefore I'm a Data Analyst in view.
 
 🔗 Links
 portfoliolinkedintwitter
 
 🛠 Skills
-Javascript, HTML, CSS...
+Excel, PowerBI, Tableau
 
-Lessons Learned
-What did you learn while building this project? What challenges did you face and how did you overcome them?
 
-I learnt paying attention to details
-
-Installation
-Install my-project with npm
-
-  npm install my-project
-  cd my-project

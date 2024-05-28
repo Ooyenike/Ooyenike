@@ -19,12 +19,12 @@ I am Owolabi Oyenike
 
 🚀 About Me
 
-I was into fullstack engineering before reuniting with my love for Numbers and Data... Therefore I'm a Data Analyst in view.
+I was once into fullstack engineering, Now transitted into Data Analysis... Therefore I'm a Data Analyst in view.
 
 🔗 Links
 portfoliolinkedintwitter
 
 🛠 Skills
-Microsoft Excel, PowerBI,
+Microsoft Excel, PowerBI, HTML, CSS.
 
 

@@ -25,6 +25,6 @@ I was into fullstack engineering before reuniting with my love for Numbers and D
 portfoliolinkedintwitter
 
 🛠 Skills
-Excel, PowerBI, Tableau
+Microsoft Excel, PowerBI,
 
 
